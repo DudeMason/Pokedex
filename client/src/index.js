@@ -13,5 +13,6 @@ ReactDOM.render(
       <App />
     </BrowserRouter>
   </PokemonProvider>,
+  
   document.getElementById('root')
 );
